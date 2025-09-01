@@ -1,0 +1,85 @@
+{
+  "audioDuration": 124.872,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 13.867,
+      "speakerId": "Speaker1",
+      "transcription": "There was once a young rat named Arthur who could never take the trouble to make up his mind. Whenever his friends asked him if he would like to go out with them, he would only answer,"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 13.867,
+      "end": 25.694,
+      "speakerId": "Speaker1",
+      "transcription": "\"I don't know. \" He wouldn't say 'yes, ' and he wouldn't say 'no' either. He can never learn and make a choice. His aunt Helen said to him,"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 26.022,
+      "end": 40.426,
+      "speakerId": "Speaker1",
+      "transcription": "No([P 0] o) will ever care for you ([B 2]) if you carry on like this, you have no more mind than a blade of glass. Arthur look {g: was}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.872,
+      "end": 52.525,
+      "speakerId": "Speaker1",
+      "transcription": "but said nothing. One rainy day the rats heard a great noise in the loft where they lived. The pine rats were rot all of them"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 52.853,
+      "end": 62.928,
+      "speakerId": "Speaker1",
+      "transcription": "and the last of the joints had given way and fallen to the ground. The wall shook the rat's hair"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 62.928,
+      "end": 74.986,
+      "speakerId": "Speaker1",
+      "transcription": "stood on end with fear and horror. \"This won't do\", ([P 0] ss) said the old rat ([B 2]) who was chief. I'll send the scouts to search for a new house."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 75.247,
+      "end": 85.304,
+      "speakerId": "Speaker1",
+      "transcription": "Three hours later the seven scouts came back and said, \"We found a stone house\"; it is just what we wanted."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 85.304,
+      "end": 98.56,
+      "speakerId": "Speaker1",
+      "transcription": "There's room a good for us all. There's a ([B 1]) kindly horse na([P 0] a)med \"Nelly, \" a cow, a calf in the garden where the {g: entry}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 98.635,
+      "end": 112.583,
+      "speakerId": "Speaker1",
+      "transcription": "Just then, ([B 2]) the old rat caught sight of young Arthur. \"Are you coming with us? \" he asked. \"I don't know, \" Arthur sighed. The roof may come down just yet."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 112.709,
+      "end": 124.872,
+      "speakerId": "Speaker1",
+      "transcription": "\"Well\", said the old ([FS] ff) rat angrily, \"we([P 0] e) can't wait all day for you to make up your mind right about {w: 1}."
+    }
+  ]
+}

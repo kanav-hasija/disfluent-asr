@@ -1,0 +1,205 @@
+{
+  "audioDuration": 255.303,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.035,
+      "end": 11.816,
+      "speakerId": "Speaker1",
+      "transcription": "I think going to San Francisco was such an eye-opening experience for me, because since ([B 1]) like I was the ([SR 0] o-) only adoptee on that stage."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 11.916,
+      "end": 21.01,
+      "speakerId": "Speaker1",
+      "transcription": "So I really use that experience to learn more about ([FW] um) my culture and I got that. I got exactly that."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 21.01,
+      "end": 35.011,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] um) That whole week, it really shocked me because we had press conferences and then people interviewing us all the time. On top of like, the ([SR 0] ga-) girls and I would be doing school, on top of, like, rehearsal."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 35.011,
+      "end": 43.16,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] We) We would be up from seven and then we wouldn't go to bed until like ([B 1]) twelve. ([MSR 0] So that) so that was every single day."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 43.184,
+      "end": 53.962,
+      "speakerId": "Speaker1",
+      "transcription": "And then, on the day of the pageant, I remember waking up at six in the morning to do school because I knew I wouldn't get back to the hotel until, like, one."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 54.102,
+      "end": 65.442,
+      "speakerId": "Speaker1",
+      "transcription": "So ([MSR 0] that's) that's what my typical week was and I was thinking to myself like how([P 0] ww). I don't know what my starter is going to be like"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 65.59,
+      "end": 77.778,
+      "speakerId": "Speaker1",
+      "transcription": "an([P 0] nn)d it hone([P 0] ee)stly ([SR 0] b-) beginning was a little shaky, but once I did the pa([P 0] aa)geant ([B 1]) like, everything was fine. It was fine."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 77.954,
+      "end": 88.907,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] um) And my speech wasn't ([B 1]) really any trouble, until I came ([SR 3] b-b-b-b) back to Chicago. That's when it started to happen."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100013",
+      "start": 89.288,
+      "end": 90.168,
+      "speakerId": "Speaker1",
+      "transcription": "Yeah"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100027",
+      "start": 91.939,
+      "end": 102.213,
+      "speakerId": "Speaker2",
+      "transcription": "Yeah ([FS] re) like just hearing you([P 0] uu), talk abou([P 0] uu)t, how freeing it was for you to be on stage, ([MSR 0] it) it really"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100014",
+      "start": 102.213,
+      "end": 110.482,
+      "speakerId": "Speaker2",
+      "transcription": "yeah ([SR 0] I) ([FW] uh) I really felt that because I definitely feel([P 0] ll) the same way([P 0] yy) when I'm speaki([P 0] ii)ng"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100015",
+      "start": 110.482,
+      "end": 123.852,
+      "speakerId": "Speaker2",
+      "transcription": "openly about my stutter. I just feel this sense of like, a weight has been lifted, and I'm just like, \"Hey, I don't have to try so hard to talk a certain way. \" I can kind of just like,"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100016",
+      "start": 123.972,
+      "end": 129.77,
+      "speakerId": "Speaker2",
+      "transcription": "take a deep breath and just ([B 1]) be myself and not have to like micromanage my speech all the time."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100028",
+      "start": 129.77,
+      "end": 139.66,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] uh) ([FW] hm) Yeah"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100029",
+      "start": 141.192,
+      "end": 151.538,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] Yeah) Yeah, honestly ([P 0] yy) ([B 1]) like, ([B 1]) whe([P 0] ee)n ([B 1]) ([MSR 0] when) ([B 1]) when I was given the title"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100018",
+      "start": 151.538,
+      "end": 162.119,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] um) Comcast Community Service, I was kind of throw([P 0] ww)n a little, cause I didn't think ([B 1]) like ([B 1]) I would be given a title."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100019",
+      "start": 162.119,
+      "end": 176.463,
+      "speakerId": "Speaker1",
+      "transcription": "I was just like, \"I just have to do this and then everything will be fi([P 0] ii)ne. \" So when I got the title, I was so proud because like, I had overcome so much, and not only that, like, advocating"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100020",
+      "start": 176.463,
+      "end": 183.762,
+      "speakerId": "Speaker1",
+      "transcription": "for like, you know inclusive ([FW] um) ([B 1]) like groups that really just"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100021",
+      "start": 184.141,
+      "end": 195.237,
+      "speakerId": "Speaker1",
+      "transcription": "know how do you like, listen to people's stories and have compa([P 0] aa)ssion that like, \"it's ok to take time, when you're talking\" an([P 0] nn)d ([FW] umm)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100022",
+      "start": 195.562,
+      "end": 207.544,
+      "speakerId": "Speaker1",
+      "transcription": "honestly([P 0] yy) like, I think it's an important conversation because oftentimes in schools, it would be like, \"Ok here's what we're gonna do([P 0] o), to make sure that the classroom"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100023",
+      "start": 207.554,
+      "end": 214.405,
+      "speakerId": "Speaker1",
+      "transcription": "is a safe space for everyone. \" And I remember when I was in throughout my ~K to twelve education,"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100031",
+      "start": 214.405,
+      "end": 223.773,
+      "speakerId": "Speaker1",
+      "transcription": "([FS] I was never) I never truly felt safe because of my stutter to speak, so I feel like this also helped me advocate for just like"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100024",
+      "start": 224.202,
+      "end": 235.739,
+      "speakerId": "Speaker1",
+      "transcription": "teach([P 0] ee)ers and sch([P 0] oo)ools, just to be more mindful of th([P 0] aa)at. And so([P 0] oo) it was really nice to have support from like my schoo([P 0] oo) l and like my page([P 0] aa)ant"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100025",
+      "start": 235.939,
+      "end": 250.216,
+      "speakerId": "Speaker1",
+      "transcription": "sisters and basically just being able to tell people in the audience was nice too cause, like there were so many people there from like ([SR 0] di-) different, like ([SR 1] b -b-) backgrounds, like"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100026",
+      "start": 250.392,
+      "end": 255.303,
+      "speakerId": "Speaker1",
+      "transcription": "business or like community. So yeah, It was nice"
+    }
+  ]
+}

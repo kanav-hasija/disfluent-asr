@@ -1,0 +1,85 @@
+{
+  "audioDuration": 122.396,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.254,
+      "end": 13.73,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 1] On a sm) ([B 2]) \"On a small, ([B 2]) not quite dark bedroom, ([B 1]) next to the bathroom at number"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 13.733,
+      "end": 27.702,
+      "speakerId": "Speaker1",
+      "transcription": "Twenty-seven, Wellington Gardens. \" like a seven, yeah, a {w: 1} culture not quite {g: sleep}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 28.604,
+      "end": 41.793,
+      "speakerId": "Speaker1",
+      "transcription": "He was ([B 1]) throwing in the air ([B 1]) And singing to himself in ([B 1]). What do you mean by ([B 1]) {w: 2}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 41.914,
+      "end": 52.424,
+      "speakerId": "Speaker1",
+      "transcription": "([B 1]) Paddington, Paddington, Paddington pie. I {w: 1} can't fish, and fish can't {w: 1}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 53.36,
+      "end": 67.361,
+      "speakerId": "Speaker1",
+      "transcription": "\"Ask me a question, and I reply, 'Paddington, Paddington, Paddington pie. \" When he was {w: 2} singing fish for {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 67.361,
+      "end": 77.753,
+      "speakerId": "Speaker1",
+      "transcription": "nineteen time ([B 1]) something quite respective ([B 1]) happened"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 85.253,
+      "end": 95.489,
+      "speakerId": "Speaker1",
+      "transcription": "\"Ask me a question, \" ([B 2]) Tom {g: chuckled} softly ([B 1]) and ([FW] uh) ([B 1]) reply."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 96.053,
+      "end": 107.534,
+      "speakerId": "Speaker1",
+      "transcription": "\"What's your name? \" ([B 2]) said an in([B 1])terested voice ([B 2]). It ([B 2]) {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 107.535,
+      "end": 120.309,
+      "speakerId": "Speaker1",
+      "transcription": "sees {u: } beneath the bed. ([B 1]) \"Who's that? \" All of a ([P 1] ss) sudden, Tom was wide awake ([B 1]) sitting."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 120.31,
+      "end": 121.78,
+      "speakerId": "Speaker1",
+      "transcription": "No."
+    }
+  ]
+}

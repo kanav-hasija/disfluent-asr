@@ -1,0 +1,77 @@
+{
+  "audioDuration": 115.984,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.305,
+      "end": 14.32,
+      "speakerId": "Speaker1",
+      "transcription": "{u: } This ([B 3]) ([FS] t - t - t) friday ([B 2]) ([MSR 2] and ([B 1]) I'm) ([B 1]) and ([B 3]) I'm"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 14.328,
+      "end": 27.989,
+      "speakerId": "Speaker1",
+      "transcription": "going with my mom my two brothers ([FW] um) ([B 2]) My ([B 2]) sister [B 3] and one of my ([SR 0] k-) cousins"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 28.992,
+      "end": 37.304,
+      "speakerId": "Speaker1",
+      "transcription": "And ([B 1]) we're ([MSR 3] all going ([MSR 2] there) there) all going there"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.265,
+      "end": 51.783,
+      "speakerId": "Speaker1",
+      "transcription": "Told my mom and we're going to have fun, hopefully, and on Saturday I'm going to my ([SR 0] k-) cousin's house"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 52.988,
+      "end": 64.456,
+      "speakerId": "Speaker1",
+      "transcription": "And we're going ([SR 1] bow-) ([B 1]) bowling ([MSR 2] ([B 2]) and on) and on"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 64.48,
+      "end": 78.226,
+      "speakerId": "Speaker1",
+      "transcription": "([P 1] ss) sunday I'm going ([MSR 3] to - to - to - to) to the ([SR 2] s- s- s-) cinemas ([FS] t - t - t-) with them as well"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 78.52,
+      "end": 92.384,
+      "speakerId": "Speaker1",
+      "transcription": "and I'm looking forward to that as well ([B 3]) and on Monday and the whole week I'll be staying with my grand and we'll be just going"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 92.813,
+      "end": 106.964,
+      "speakerId": "Speaker1",
+      "transcription": "Not really much ([MSR 0] but) but hopefully so we plan to make ([FW] um) what a huge sprinkled cake and I can't wait to have a taste of that"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 107.09,
+      "end": 113.258,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 3] and we're) ([B 1]) and we're gonna have a picnic at Tango park."
+    }
+  ]
+}

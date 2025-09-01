@@ -1,0 +1,125 @@
+{
+  "audioDuration": 168.9,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.136,
+      "end": 14.624,
+      "speakerId": "Speaker1",
+      "transcription": "When {u: } the sunlight strikes raindrops in the air ([B 1]), they act as a prism and form a rainbow. The rainbow ([B 3]) is a {w: 4} many beautiful colors."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 14.665,
+      "end": 27.305,
+      "speakerId": "Speaker1",
+      "transcription": "This take the shape of a long {g: round} ([B 2]) with its past {u: } in a two months for {w: 2} the {g: horizon}. There is, according to {g: digits}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 27.305,
+      "end": 40.552,
+      "speakerId": "Speaker1",
+      "transcription": "calling out of gold at one end ([B 2]). People look ([B 1]) ([P 1] nn) nowhere, even finds in it ([B 1]) {u: } looks for something beyond the {w: 3}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.552,
+      "end": 53.487,
+      "speakerId": "Speaker1",
+      "transcription": "{u: } looking ([MSR 0] for) for the going at the end of the day. ([B 1]) Throughout the centuries people have ([B 1]) ex([B 1])plained the rainbow in various ways"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 53.815,
+      "end": 64.743,
+      "speakerId": "Speaker1",
+      "transcription": "Some have accepted is that a miracle ([B 1]) without physi([B 1])cal ([FS] exam) explanation. ([B 2]) To the Hebrews it was"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 64.835,
+      "end": 79.205,
+      "speakerId": "Speaker1",
+      "transcription": "a token that there would be no more be universal floods. ([B 1]) The Greeks used to imagine ([B 1]) that it was a sign from the gods ([B 2]) to fort al bars or heavy rain."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 79.313,
+      "end": 86.232,
+      "speakerId": "Speaker1",
+      "transcription": "The Norsemen conceded that the rainbow ([B 1]) had a bridge over which was passed"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 86.232,
+      "end": 100.233,
+      "speakerId": "Speaker1",
+      "transcription": "from earth to their home in the sky. ([B 2]) Others have tried to do explain the phenomenon {g: basically}. Aristotle thought that rainbow was caused by {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 100.233,
+      "end": 114.234,
+      "speakerId": "Speaker1",
+      "transcription": "deflection of ([B 1]) sun raise in the rain, since the physikists have found that it's not a very perfect plan but the fraction is by the rain drops which causes the rain."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 114.234,
+      "end": 126.758,
+      "speakerId": "Speaker1",
+      "transcription": "{u: } Many complicated ideas about brain rainbow have been formed. The difference in the ([SR 0] r-) rainbow depends considerably ([B 1]) on the size of {w: 1}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100011",
+      "start": 127.053,
+      "end": 133.094,
+      "speakerId": "Speaker1",
+      "transcription": "and the widths ([B 1]) of the colored band increases as the size of drafts increases."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100012",
+      "start": 133.094,
+      "end": 142.317,
+      "speakerId": "Speaker1",
+      "transcription": "The actual primary ([SR 0] r-) rainbow observed is said to be effect on superimpos([P 1] iiii)tion number of groups."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100013",
+      "start": 142.696,
+      "end": 148.426,
+      "speakerId": "Speaker1",
+      "transcription": "If the red of the second bow falls upon the green of the ([SR 0] f) first ([B 1])"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100014",
+      "start": 148.45,
+      "end": 161.09,
+      "speakerId": "Speaker1",
+      "transcription": "the result ([SR 0] g) gives a bow with abnormally be wide yellow band. ([B 1]) Since red and green lights when mixed, form yellow. ([B 1]) This is a very common type of {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100015",
+      "start": 161.09,
+      "end": 167.849,
+      "speakerId": "Speaker1",
+      "transcription": "one showing mainly red, yellow, ([SR 0] li) little green or nee green blue"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "audioDuration": 61.32,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 1.553,
+      "end": 15.772,
+      "speakerId": "Speaker1",
+      "transcription": "When the ([B 1]) sunlight strikes ([B 1]) raindrops in the air ([SR 3] th-th-th-th-) they ([B 1]) act ([B 1]) as a prism and form a ([B 2])"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 16.825,
+      "end": 31.364,
+      "speakerId": "Speaker1",
+      "transcription": "rainbow. ([MSR 2] The- The- The-) The rainbow is in ([B 2]) ([SR 3] m- m- m- m-) ([SR 3] d-d-d-d-)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 32.738,
+      "end": 40.19,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 3] d-d-d-d-) division of ([B 1]) white light into many beautiful colors."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.923,
+      "end": 54.924,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 3] d- d- d- d) These take the shape of a long ([B 1]) round arch, ([B 1]) with its ([B 1]) path high above"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 54.924,
+      "end": 60.676,
+      "speakerId": "Speaker1",
+      "transcription": "and ([B 1]) its two ends are apparently ([B 1]) beyond the horizon."
+    }
+  ]
+}

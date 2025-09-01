@@ -1,0 +1,93 @@
+{
+  "audioDuration": 133.317,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.868,
+      "end": 14.073,
+      "speakerId": "Speaker1",
+      "transcription": "Winnie's ([SR 1] d- d- d-) ([MSR 1] dep - dep) department store ([SR 0] w-) was having ([SR 2] i- i- i-) It's twentieth anniversary ([P 2] ssss)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 14.074,
+      "end": 28.064,
+      "speakerId": "Speaker1",
+      "transcription": "([P 2] sssssss) a ([P 0] sss) celebration ([SR 0] a-) on May the third and was planning and ([SR 0] e-) enormous"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 28.064,
+      "end": 39.556,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 1] s- s-) {g: ocean } certain ([SR 0] s-) sections of the store were having ([MSR 0] treme) ([SR 2] t- t- t-) trem([B 1])endous"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 39.556,
+      "end": 51.335,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 0] s-) sales ([SR 1] e- e-) especially the ([SR 0] d-) dress department the jewelry department and the furniture department in ([SR 2] i- i- i-) in order"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 51.335,
+      "end": 59.782,
+      "speakerId": "Speaker1",
+      "transcription": "to prepare the store ([SR 2] w- w- w-) workmen ([SR 2] w- w- w-) were moving"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 60.278,
+      "end": 74.783,
+      "speakerId": "Speaker1",
+      "transcription": "busily around carrying lumber and sawing ([MSR 0] and) and hammering ([MSR 1] ham- ham) hammering ([SR 0] d-) they were ([SR 3] b- b- b- b-) ([MSR 1] buch- buch)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 75.196,
+      "end": 88.3,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 3] k- k- k- k-) creating signs ([SR 0] d-) displays and ([SR 1] sh- sh-) shelvings for the products ([SR 3] g- g- g-g-) going on sale ([SR 0] a-) a newspaper"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 88.375,
+      "end": 101.986,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 0] w-) was ([SR 0] p-) planned, in which the products ([P 0] ww) would be featured. The store's owners hoped that the customers ([P 1] www) would come ([MSR 1] to - to) to celebrate"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 101.993,
+      "end": 115.981,
+      "speakerId": "Speaker1",
+      "transcription": "The ([SR 0] tw-) twenty years ([B 3]) of service ([B 1]) to the community and would also ([SR 1] t- t-) take ([SR 1] a-a-) advantage ([SR 2] o- o- o-) of ([SR 0] d-) the"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 115.982,
+      "end": 130.403,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 3] b - b - b - b-) bargains ([SR 1] o- o-) offered in many ([SR 0] d-) departments. They ([SR 0] w-) were planning ([SR 0] t-) to ([SR 0] g-) give ([SR 0] a-) a to {g: dope} {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100011",
+      "start": 130.681,
+      "end": 133.317,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 2] o- o- o-) on each {u: }"
+    }
+  ]
+}

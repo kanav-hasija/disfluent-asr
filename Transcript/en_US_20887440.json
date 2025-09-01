@@ -1,0 +1,29 @@
+{
+  "audioDuration": 65.132,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.997,
+      "end": 13.139,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] Um) ([B 3]) Because I like to watch it because {w: 1} ([B 2]) ([FW] um) I like seeing all of the people. ([FW] hmm)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 14.412,
+      "end": 22.64,
+      "speakerId": "Speaker1",
+      "transcription": "I like what part of my favorite {g: wrestler } {u: } ([B 1]) ([FW] Uh)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 31.169,
+      "end": 37.321,
+      "speakerId": "Speaker1",
+      "transcription": "Oh yeah, a lot {w: 1} tell you as well ([B 2]). I like \"The Simpsons. \""
+    }
+  ]
+}

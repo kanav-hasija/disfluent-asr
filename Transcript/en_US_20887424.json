@@ -1,0 +1,21 @@
+{
+  "audioDuration": 34.74,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 3.764,
+      "end": 18.303,
+      "speakerId": "Speaker1",
+      "transcription": "When the ([B 1]) sunlight strikes ([B 1]) raindrops in the air, ([MSR 1] they act as a-) ([B 1]) they act as a prism ([B 1]) and form a ([B 1]) rainbow. The rainbow is a division of"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 19.588,
+      "end": 33.828,
+      "speakerId": "Speaker1",
+      "transcription": "([B 1]) white light into many beautiful colors. These take the shape ([P 1] oo) of a long {w: 1} ([SR 0] r-) round arch ([B 1]) with its path high above and its two ends apparently beyond the horizon."
+    }
+  ]
+}

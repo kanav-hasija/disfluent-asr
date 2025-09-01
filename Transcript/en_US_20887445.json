@@ -1,0 +1,93 @@
+{
+  "audioDuration": 129.916,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 12.05,
+      "speakerId": "Speaker1",
+      "transcription": "My teacher, called Mr. Collier and he's very ([P 0] s-) strict and we've got naughty people ([MSR 0] in) in my class, but he tells them off a lot and"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 12.05,
+      "end": 23.45,
+      "speakerId": "Speaker1",
+      "transcription": "But and we've got this timeout corner and you normally go in there for ([MSR 1] five - five ([FW] um)) five minutes if you're naughty and sometimes ten ([P 0] aan) and."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 23.457,
+      "end": 35.566,
+      "speakerId": "Speaker1",
+      "transcription": "We've got to help on Mrs. Martin because we've got a special need person in our class ([P 1] aa) and she helps everybody really ([P 1] aa) and ([FW] um)."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 35.877,
+      "end": 48.172,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] He's) He's really nice, and we get some people coming throughout; we get helpers throughout ([P 1] aaa) and (we [P 0] ee) ([B 1]) and I like school {g: but}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 48.55,
+      "end": 61.358,
+      "speakerId": "Speaker1",
+      "transcription": "And sometimes I get a bit picked on because of my stammer, and my friends used to take ([P 0] t) they kind of used to take the mickey out of me, but they don't now, they've stopped ([P 1] ann), and ([FW] um)."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 61.358,
+      "end": 74.302,
+      "speakerId": "Speaker1",
+      "transcription": "Last time I talked about my {u: } day ([P 1] ann) and ([FW] um), but school's really good ([P 1] ann) and I'm in year five now and I've only been in there for about"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 74.302,
+      "end": 87.177,
+      "speakerId": "Speaker1",
+      "transcription": "I've just had half term, so only half a term and like I said, I like school and when I've come home, I've got a busy ([P 0]) week because on Monday I go {g: school}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 87.225,
+      "end": 98.762,
+      "speakerId": "Speaker1",
+      "transcription": "Tuesday I g([P 0] o)o French, Wednesday I go choir, Thursday I'm free and Friday I go shopping with ([FW] um) with mummy to do a weekly shopping."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 98.77,
+      "end": 113.283,
+      "speakerId": "Speaker1",
+      "transcription": "But sometimes I don't go with her, I go to a friend's house ([MSR 1] sometimes) sometimes ([B 1]) and ([FW] um). It's okay([P 0] y). Sometimes I buy some stuff that I like I buy some maga([P 1] zii)ines."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 113.283,
+      "end": 123.417,
+      "speakerId": "Speaker1",
+      "transcription": "Like that, and I get pocket money. I get a pound a week for doing nothing ([B 2]). I don't really do anything but"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100011",
+      "start": 123.965,
+      "end": 129.83,
+      "speakerId": "Speaker1",
+      "transcription": "I do it ([FW] uh), but then on Thursday or Sunday I'm going to the fireworks with my friends."
+    }
+  ]
+}

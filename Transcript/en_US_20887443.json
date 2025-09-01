@@ -1,0 +1,93 @@
+{
+  "audioDuration": 133.399,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.507,
+      "end": 11.468,
+      "speakerId": "Speaker1",
+      "transcription": "I was born in London ([MSR 1] in ([P 0] ss) in ([P 0] ss)) ([MSR 3] in ([FW] um)) in ([FW] um) ([P 0] s) Saint Thos's Hospital, and I weighed ([FW] um) one pound nine when I was born."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 11.797,
+      "end": 22.758,
+      "speakerId": "Speaker1",
+      "transcription": "An([P 1] nn)d ([FW] umm) ([MSR 0] and) and what ([MSR 0] my dad) my dad works in the ([FW] um)([B 2]) {g: navy} ([B 1]) and he's a ([B 2]) commander I {g: live}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 23.187,
+      "end": 37.051,
+      "speakerId": "Speaker1",
+      "transcription": "I live in a ([MSR 0] small) small town ([MSR 0] named) ([FW] um) named ([FW] um) Orwood ([MSR 0] which is) ([FW] um) which is by the big town ([B 2]) Watford. ([FW] um) ([B 1]) I go to school ([MSR 0] down in)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 37.052,
+      "end": 44.898,
+      "speakerId": "Speaker1",
+      "transcription": "down in ([B 1]) ([SR 0] d-) Dorset. ([FW] Um) It's a nice school ([MSR 0] called) ([FW] um) called, Alton Abbey school."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 45.074,
+      "end": 58.837,
+      "speakerId": "Speaker1",
+      "transcription": "([FW] um) ([FW] uh) dance sports ([MSR 1] they do - they do) ([FW] uh) they do the ~CCF ([FS] which is like the junior) that is like very junior to the armed forces, which are also in the navy. ([FW] um)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 58.838,
+      "end": 71.459,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 1] i- i) ([FS] it's the) we've been doing ([MSR 2] the- the- the-) ([FW] um) the ([FW] um) mock ([MSR 2] for our) for our ([FW] um) ([FS] silver) no for our {u: }"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 72.428,
+      "end": 79.938,
+      "speakerId": "Speaker1",
+      "transcription": "~EOV ([SR 0] x-) X edition ([B 1]) which was a bit boring {w: 2} ([FW] um) and ([FW] um)"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 79.938,
+      "end": 90.569,
+      "speakerId": "Speaker1",
+      "transcription": "I quite enjoyed that, and so this time ([FW] um) what ([MSR 1] we're gonna do) we're gonna do the real thing ([MSR 1] out on the) ([FW] um) ([B 2]) out on the ([B 2]) ([FW] Uh) Beck Hills."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 90.569,
+      "end": 103.808,
+      "speakerId": "Speaker1",
+      "transcription": "An([P 1] nn)d ([FW] um) should be interesting. And then what we also do, we also have to do ([B 3]) ([SR 2] - k- k) conservation, which is what we're doing at the moment; we're making a path ([B 1]) for to go from our {w: 1}"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100010",
+      "start": 104.71,
+      "end": 119.598,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] to an old) ([B 2]) to an old ([B 1]) apple which ([FW] uh) leads, which is up on a hill. So we need to make a few signs and things like that. An([P 1] nn)d ([FW] um) well ([MSR 1] my mom's) my mom's"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100011",
+      "start": 119.881,
+      "end": 133.399,
+      "speakerId": "Speaker1",
+      "transcription": "training to be a ([FW] um) ([B 1]) ethical ([B 1]) secretary. She's learning about word processing ([MSR 0] which I) which, I've been learning for about three or ([MSR 0] five) five years."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "audioDuration": 32.28,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 1.752,
+      "end": 15.408,
+      "speakerId": "Speaker1",
+      "transcription": "([SR 0] wh-) When the sunlight strikes raindrops in the air they act as a ([SR 0] p) prism and form a rainbow. The rainbow is a ([B 1]) division of white light into many beautiful colors."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 16.088,
+      "end": 24.174,
+      "speakerId": "Speaker1",
+      "transcription": "These take the shape of a ([P 0] l) long round arc ([P 0] w) with its ([SR 0] b-) beyond ([B 2]) ([P 0] w) with its"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 24.18,
+      "end": 32.225,
+      "speakerId": "Speaker1",
+      "transcription": "([B 1]) path high above and is ([B 1]) true ([SR 0] a-) apparently beyond [B 0] the horizon."
+    }
+  ]
+}

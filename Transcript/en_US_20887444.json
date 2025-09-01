@@ -1,0 +1,37 @@
+{
+  "audioDuration": 47.919,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 13.257,
+      "speakerId": "Speaker1",
+      "transcription": "Hold on ([P 1] nn), Alice, to live in a lonely castle so far from the ([MSR 1] from the ci-) from the city. Tonight, it was even harder because the storm frightened her. It's not a good night for ghosts ([MSR 0] she) she thought."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 13.552,
+      "end": 25.381,
+      "speakerId": "Speaker1",
+      "transcription": "She put some more firewood in([P 0] n) to the fire. She knew it was saying she was only going; she was only fooling herself. She knew the ghost ([MSR 1] would be) would be in the chapel again {g: tonight}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 25.381,
+      "end": 39.151,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] She) She had seen every night since she had moved in([P 0] n)to the castle. ([MSR 1] She) She went to the large window and slowly moved the curtain apart. She could see the chapel down the hill ([MSR 0] of) of."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 39.151,
+      "end": 47.834,
+      "speakerId": "Speaker1",
+      "transcription": "A flash of lightning lit the sky for a moment. She looked out again. This time, she saw the glow coming from the chapel her ghost was waiting."
+    }
+  ]
+}

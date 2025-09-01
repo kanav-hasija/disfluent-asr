@@ -1,0 +1,21 @@
+{
+  "audioDuration": 20.7,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 1.132,
+      "end": 14.54,
+      "speakerId": "Speaker1",
+      "transcription": "Some have ex([B 1])pec([B 1])ted it as a miracle without physical explanation ([MSR 0] to the Herb-) to the Hebruis, it was taken that there would be no more universal floods."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 14.547,
+      "end": 20.7,
+      "speakerId": "Speaker1",
+      "transcription": "The Greeks used to imagine that it was a sign from the god to foretell war or heavy rain."
+    }
+  ]
+}

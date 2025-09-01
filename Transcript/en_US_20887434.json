@@ -1,0 +1,45 @@
+{
+  "audioDuration": 66.792,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 12.671,
+      "speakerId": "Speaker1",
+      "transcription": "To his van in front of the apartment house ([B 1]), his tools ([B 2]), he took his tools ([SR 1] out- out-) out ([SR 0] of-) of the back, walked ([MSR 0] int) into the lobby"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 12.77,
+      "end": 26.157,
+      "speakerId": "Speaker1",
+      "transcription": "([MSR 0] and) and took the ([FW] eh) ([MSR 0] the) the elevator to the twelfth floor. Only one person looking out from an eleventh-floor window. Either he was really a de([P 1] ee)tective. Paul felt very un([P 1] nnn)comfortable."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 26.157,
+      "end": 40.409,
+      "speakerId": "Speaker1",
+      "transcription": "about suspecting his neighbor in the apartment house as being ([MSR 2] this- this- this) this ([FW] um) honest ([B 2]), but many particular things had happened recently."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.417,
+      "end": 52.583,
+      "speakerId": "Speaker1",
+      "transcription": "There was something going on that he didn't ([B 1]) understand. Miss Franklin in eleven A ([MSR 0] had) had recently ([MSR 0] pur) purchased a necklace made of pearls"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 52.583,
+      "end": 66.785,
+      "speakerId": "Speaker1",
+      "transcription": "and had disappeared from her jewelry case. Fred Carson in eleven F had kept his expensive coin collection in an artificial book on his bookshelf. One day he noticed that it was no longer there."
+    }
+  ]
+}

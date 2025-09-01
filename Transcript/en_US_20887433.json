@@ -1,0 +1,77 @@
+{
+  "audioDuration": 116.949,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 13.231,
+      "speakerId": "Speaker1",
+      "transcription": "Boring, ([MSR 0] I) I've got ones teacher. Her name's Miss Willy. He always moans. ([B 2]) I do maths."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 13.231,
+      "end": 26.2,
+      "speakerId": "Speaker1",
+      "transcription": "English, Science, Geography([P 1] yyy) {w: 1} ([FW] um), History([P 0] yyy) and ~ICT and ~PA ([B 2])."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 26.201,
+      "end": 37.743,
+      "speakerId": "Speaker1",
+      "transcription": "In eng([B 1])lish, I was in pain. In maths {w: 1} in he ([FW] oh) I noticed, I'm in pain. I'm always in pain."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.383,
+      "end": 53.42,
+      "speakerId": "Speaker1",
+      "transcription": "In my time I've got, ([B 1]) me([P 0] e), my mom, my dad ([B 1]), my dog ([B 2]) and my ([P 1] sss)sister who's married and has got"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 54.473,
+      "end": 67.493,
+      "speakerId": "Speaker1",
+      "transcription": "a little ([B 1]) baby ([P 1] yyy). His name's {g: Tobey} and ([B 2]) he's two. He comes around every ([B 2]) Monday."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 69.982,
+      "end": 83.305,
+      "speakerId": "Speaker1",
+      "transcription": "And, ([B 3]) {w: 1} {u: } my ([P 0] fff)favorite team's West Ham. I watched them laying up yesterday."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100007",
+      "start": 83.549,
+      "end": 97.598,
+      "speakerId": "Speaker1",
+      "transcription": "Three years ago against, Newcastle, and {g: they} won {g: to} nil. ([B 3]) I read books at home and listen to"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100008",
+      "start": 98.517,
+      "end": 112.793,
+      "speakerId": "Speaker1",
+      "transcription": "music and ([FS] I've) I can use the games and watched TV. At the moment I'm reading Harry ([P 1] pp) Potter ([B 1]) I'm on the {g: fifth} book"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100009",
+      "start": 112.793,
+      "end": 116.684,
+      "speakerId": "Speaker1",
+      "transcription": "{u: } the goblet of fire, and."
+    }
+  ]
+}

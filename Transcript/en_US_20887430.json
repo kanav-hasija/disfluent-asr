@@ -1,0 +1,53 @@
+{
+  "audioDuration": 75.828,
+  "segments": [
+    {
+      "segmentType": "Speech",
+      "segmentId": "100001",
+      "start": 0.0,
+      "end": 13.079,
+      "speakerId": "Speaker1",
+      "transcription": "Washington, part of the nation's future oil supply, may lie within some extraordinary organisms that have been {w: 1}."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100002",
+      "start": 13.079,
+      "end": 27.052,
+      "speakerId": "Speaker1",
+      "transcription": "A third form of life. ([B 2]) A Colorado State University microbiologist, ([B 3]) reports obtaining ([B 1]) pure hydrocarbon."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100003",
+      "start": 27.052,
+      "end": 40.501,
+      "speakerId": "Speaker1",
+      "transcription": "That could be ([B 1]) converted to gasoline or lubricating oils from several of the organisms. ([B 2]) The oily substance ([B 1]) is energy which,"
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100004",
+      "start": 40.501,
+      "end": 54.415,
+      "speakerId": "Speaker1",
+      "transcription": "Definitely a lubricant, combustible, and isn't soluble in water ([B 2]) in water, ([B 2]) says the researcher, ([B 1]) Thomas Thornabe."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100005",
+      "start": 56.049,
+      "end": 68.462,
+      "speakerId": "Speaker1",
+      "transcription": "And the oil is free of air-polluting sulfur. ([B 2]) The discovery now ([B 1]) is only ([B 1]) a laboratory phenomenon."
+    },
+    {
+      "segmentType": "Speech",
+      "segmentId": "100006",
+      "start": 69.29,
+      "end": 75.728,
+      "speakerId": "Speaker1",
+      "transcription": "Any commercial ([B 1]) application ([B 1]) is ([MSR 1] some) some time away."
+    }
+  ]
+}
